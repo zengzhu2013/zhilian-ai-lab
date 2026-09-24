@@ -787,7 +787,3 @@ Commercial use is strictly prohibited.
 - 补充接口清单与测试用例；
 - 对 Skill 系统、Agent 事件流、RAG 流程绘制架构图；
 - 增加正式 `LICENSE`、`.gitignore`、`CHANGELOG.md` 与发布说明。
-
----
-
-如果你准备将本项目上传到 GitHub，建议直接以本文件为基础，再补一个面向访客的 `README.md` 首页版本，并同步完成配置脱敏与许可证文件落地。
